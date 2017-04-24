@@ -1,0 +1,30 @@
+{
+  "name": "testnodeapp",
+  "version": "0.0.1",
+  "description": "Getting Started with MERN stack",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/testNodeApp.git"
+  },
+  "keywords": [
+    "git",
+    "Mongo",
+    "Express",
+    "React",
+    "Node"
+  ],
+  "author": "Dave Kanter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydot/testNodeApp/issues"
+  },
+  "homepage": "https://github.com/raydot/testNodeApp#readme"
+}
